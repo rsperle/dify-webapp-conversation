@@ -7,7 +7,7 @@ export const APP_INFO: AppInfo = {
   description: 'Assistente de pré-venda da Prolotes, a maior loteadora do Estado do Rio de Janeiro.',
   copyright: '',
   privacy_policy: '',
-  default_language: 'pt-BR',
+  default_language: 'pt-br',
 }
 
 export const isShowPrompt = false
