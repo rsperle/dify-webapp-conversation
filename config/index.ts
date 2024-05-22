@@ -4,7 +4,7 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
   title: 'Prolotes',
-  description: 'Assistente de pré-venda da Prolotes, a maior loteadora do Estado do Rio de Janeiro.',
+  description: 'Converse com o assistente de pré-venda e tire todas as suas dúvidas.',
   copyright: '',
   privacy_policy: '',
   default_language: 'en',
